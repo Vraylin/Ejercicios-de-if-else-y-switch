@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Ejercicios de if, else y switch": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
