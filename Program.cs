@@ -302,7 +302,7 @@ namespace ejercicios
 
             //**************************
 
-            Console.WriteLine("KLK PA");
+            Console.WriteLine("HOLA GENTE");
         }
     }
 }
